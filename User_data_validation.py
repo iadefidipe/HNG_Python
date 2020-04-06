@@ -1,6 +1,6 @@
 # Code written by Israel Adefidipe
 # written on the 06/04/2020
-# code that says hello and ask for your name
+# code receives details from users, generates password and print details of all users
 import random
 import string
 
